@@ -1,0 +1,25 @@
+{
+  "name": "@taliyo/luxury-editorial-magazine",
+  "version": "1.0.0",
+  "description": "Ultra-sleek dark-mode digital publication layout powered by Three.js WebGPU shaders, 3D GLB models, kinetic typography, and editorial visual grids.",
+  "private": true,
+  "author": "Taliyo Technologies <info@taliyotechnologies.com>",
+  "homepage": "https://www.taliyotechnologies.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/virajverse/luxury-editorial-magazine.git"
+  },
+  "scripts": {
+    "start": "python serve.py",
+    "dev": "python serve.py",
+    "preview": "python serve.py"
+  },
+  "keywords": [
+    "taliyo-technologies",
+    "virajverse",
+    "commercial-product",
+    "luxury-editorial-&-webgpu-tech",
+    "frontend-showcase"
+  ],
+  "license": "Commercial / Proprietary"
+}
